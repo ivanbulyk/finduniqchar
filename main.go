@@ -8,10 +8,6 @@ import (
 	"unicode"
 )
 
-const (
-	strInput string = "!Yalantis Is a great ,school, so are the people who work there"
-)
-
 var (
 	strFinal  string
 	charFinal string
